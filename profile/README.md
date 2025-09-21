@@ -4,6 +4,14 @@ Alright, you found it. The digital headquarters for the finest damn research and
 
 ---
 
+## 🎙️ A Message from our CEO, Cave Johnson!
+
+[![Listen to the Speech](https://img.shields.io/badge/🎤-Listen%20to%20Cave%20Johnson-orange?style=for-the-badge)](https://github.com/Aperture-Science-Lab/.github/raw/refs/heads/main/CompanyIntro.mp3)
+
+*(Click the badge above to hear the full audio message)*
+
+---
+
 ## What We Do Here
 
 Some companies build widgets. Others make... spreadsheets. We build the FUTURE. Self-driving cars? We're on it. Artificial intelligences? Got a few of those rattling around the facility, doing... science. Anything that's dangerous, untested, and wildly profitable is our bread and butter. We're the people who don't ask "why?", we ask "why NOT?". Why not teach a car to drive? Why not give a computer a personality? Why not see what happens when you strap a rocket to a filing cabinet? That last one's still in testing.
